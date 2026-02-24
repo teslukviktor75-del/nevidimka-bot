@@ -1,8 +1,7 @@
 # nevidimka-bot
 api/bot.js
 // ======== ВСТАВ СВІЙ ТОКЕН НИЖЧЕ ========
-const TOKEN = "Here is the token for bot nevidimka @nevidimkaWeb_bot:
-
+const TOKEN = 
 7912546142:AAGr8KTgHZ3-cS7JdIldJaMesJHcX8EnkIE";
 // =========================================
 
